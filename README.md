@@ -5,7 +5,7 @@
 
 <h2>🌐 Redes sociais:</h2>
 <p align="left">
-  <a href="samuelwilliam756@gmail.com" title="Gmail">
+  <a href="mailto:samuelwilliam756@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/samuel-willian-204401233/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
